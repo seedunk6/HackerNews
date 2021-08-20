@@ -13,8 +13,7 @@
 - Java 8
 
 # Installation
-- Clone this repository and import into Android Studio
-    git clone https://github.com/seedunk6/HackerNews.git
+- Clone this repository and import into Android Studio - [git clone https://github.com/seedunk6/HackerNews.git]
 - Select a device o virtual device (Android 6.0 or higher)
 - Run 'App'
 
