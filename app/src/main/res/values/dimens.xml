@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="match_constraint">0dp</dimen>
+
+    <!--SPACING-->
+    <dimen name="spacing_xxxs">1dp</dimen>
+    <dimen name="spacing_5sm">10dp</dimen>
+    <dimen name="spacing_3sm">12dp</dimen>
+    <dimen name="spacing_sm">16dp</dimen>
+    <dimen name="spacing_xsm">18dp</dimen>
+
+    <!--TEXT-->
+    <dimen name="text_xs">13sp</dimen>
+    <dimen name="text_regular">15sp</dimen>
+
+</resources>
